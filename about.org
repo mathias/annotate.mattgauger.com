@@ -16,13 +16,13 @@
 #+HTML_MATHJAX:
 #+HTML_HEAD: <a href="/about.html">About</a>
 #+HTML_HEAD_EXTRA:
-#+SUBTITLE:
+#+SUBTITLE: 
 #+STYLE:    <link rel="stylesheet" type="text/css" href="../stylesheet.css" />
 #+INFOJS_OPT:
 #+CREATOR: <a href="http://www.gnu.org/software/emacs/">Emacs</a> 26.0.90 (<a href="http://orgmode.org">Org</a> mode 9.0)
 #+LATEX_HEADER:
 
-#+TITLE: annotate.mattgauger.com
+#+TITLE: annotate.mattgauger.com - about
 #+DATE: <2017-11-12 Sun>
 #+AUTHOR: Matt Gauger
 #+EMAIL: matt.gauger@gmail.com
@@ -31,9 +31,4 @@
 #+EXCLUDE_TAGS: noexport
 #+CREATOR: Emacs 26.0.90 (Org mode 9.0)
 
-
-* [[https://www.staticgen.com]] <2017-11-12 Sun 17:46>
-I looked at this list of static site generators before deciding to use Org mode to generate this page.
-
-* [[https://github.com/gram-ai/radio-transformer-networks%0A][gram-ai/radio-transformer-networks]] <2017-11-12 Sun 17:46>
-This could prove very interesting. DARPA issued [[https://spectrumcollaborationchallenge.com/][a Grand Challenge]] to use machine learning with software-defined radio a few years ago.
+Testing
