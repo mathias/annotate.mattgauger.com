@@ -31,6 +31,8 @@
 #+EXCLUDE_TAGS: noexport
 #+CREATOR: Emacs 26.0.90 (Org mode 9.0)
 
+* [[https://olimex.wordpress.com/2017/10/12/teres-i-do-it-yourself-open-source-laptop-update/][TERES-I Do It Yourself Open Source Laptop update]] <2017-11-13 Mon 18:52>
+A DIY laptop built with an ARM chip. Putting together a laptop from a kit sounds really appealing to me right now.
 
 * [[https://www.staticgen.com]] <2017-11-12 Sun 17:46>
 I looked at this list of static site generators before deciding to use Org mode to generate this page.
