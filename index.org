@@ -5,7 +5,7 @@
 #+OPTIONS: timestamp:t title:t todo:t |:t
 #+OPTIONS: toc:nil
 #+OPTIONS: html-link-use-abs-url:nil html-postamble:auto
-#+OPTIONS: html-preamble:t html-scripts:t html-style:t
+#+OPTIONS: html-preamble:t html-scripts:nil html-style:nil
 #+OPTIONS: html5-fancy:t tex:t
 #+HTML_DOCTYPE: html5
 #+HTML_CONTAINER: div
@@ -14,10 +14,9 @@
 #+HTML_LINK_HOME:
 #+HTML_LINK_UP:
 #+HTML_MATHJAX:
-#+HTML_HEAD: <a href="/about.html">About</a>
+#+HMTML_HEAD: <link rel="stylesheet" type="text/css" href="/stylesheet.css" />
 #+HTML_HEAD_EXTRA:
 #+SUBTITLE:
-#+STYLE:    <link rel="stylesheet" type="text/css" href="../stylesheet.css" />
 #+INFOJS_OPT:
 #+CREATOR: <a href="http://www.gnu.org/software/emacs/">Emacs</a> 26.0.90 (<a href="http://orgmode.org">Org</a> mode 9.0)
 #+LATEX_HEADER:
@@ -30,6 +29,8 @@
 #+SELECT_TAGS: export
 #+EXCLUDE_TAGS: noexport
 #+CREATOR: Emacs 26.0.90 (Org mode 9.0)
+
+[[file:about.html][About]]
 
 * [[https://olimex.wordpress.com/2017/10/12/teres-i-do-it-yourself-open-source-laptop-update/][TERES-I Do It Yourself Open Source Laptop update]] <2017-11-13 Mon 18:52>
 A DIY laptop built with an ARM chip. Putting together a laptop from a kit sounds really appealing to me right now.
