@@ -1,3 +1,8 @@
+body {
+  background: #FFF;
+  color: #000;
+}
+
 p.author { /* author information, including email */
 }
 
@@ -16,11 +21,17 @@ p.creator { /* creator info, about org mode version */
 .done { /* the DONE keywords, all states that count as done */
 }
 
+.timestamp {
+  color: #aaa;
+}
+
+.timestamp-kwd { /* keyword associated with a timestamp, like SCHEDULED*/
+}
+
+.timestamp-wrapper { /* span around keyword plus timestamp */
+}
+
 /*
-.WAITING            each TODO keyword also uses a class named after itself
-.timestamp          timestamp
-.timestamp-kwd      keyword associated with a timestamp, like SCHEDULED
-.timestamp-wrapper  span around keyword plus timestamp
 .tag                tag in a headline
 ._HOME              each tag uses itself as a class, "@" replaced by "_"
 .target             target for links
@@ -37,4 +48,4 @@ div.footnotes       footnote section headline
 p.footnote          footnote definition paragraph, containing a footnote
 .footref            a footnote reference number (always a <sup>)
 .footnum            footnote number in footnote definition (always <sup>)
-*/
+ */

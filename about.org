@@ -5,7 +5,7 @@
 #+OPTIONS: timestamp:t title:t todo:t |:t
 #+OPTIONS: toc:nil
 #+OPTIONS: html-link-use-abs-url:nil html-postamble:auto
-#+OPTIONS: html-preamble:t html-scripts:t html-style:t
+#+OPTIONS: html-preamble:t html-scripts:nil html-style:nil
 #+OPTIONS: html5-fancy:t tex:t
 #+HTML_DOCTYPE: html5
 #+HTML_CONTAINER: div
@@ -14,10 +14,9 @@
 #+HTML_LINK_HOME:
 #+HTML_LINK_UP:
 #+HTML_MATHJAX:
-#+HTML_HEAD: <a href="/about.html">About</a>
+#+SUBTITLE:
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="./stylesheet.css" />
 #+HTML_HEAD_EXTRA:
-#+SUBTITLE: 
-#+STYLE:    <link rel="stylesheet" type="text/css" href="../stylesheet.css" />
 #+INFOJS_OPT:
 #+CREATOR: <a href="http://www.gnu.org/software/emacs/">Emacs</a> 26.0.90 (<a href="http://orgmode.org">Org</a> mode 9.0)
 #+LATEX_HEADER:
@@ -31,4 +30,16 @@
 #+EXCLUDE_TAGS: noexport
 #+CREATOR: Emacs 26.0.90 (Org mode 9.0)
 
-Testing
+[[file:index.html][Home]]
+
+I am [[http://mattgauger.com][Matt Gauger]]. In addition to [[http://blog.mattgauger.com][my blog]], I wanted to share links, shorter thoughts, and write book reviews somewhere.
+
+There's a line in [[http://www.antipope.org/charlie/blog-static/fiction/accelerando/accelerando.html][Accelerando]] by Charles Stross that says the main character Manfred Macx:
+
+#+BEGIN_QUOTE
+... speed reads a new pop-philosophy tome while he brushes his teeth, then blogs his web throughput to a public annotation server
+#+END_QUOTE
+
+This is my own public annotation server. But beyond science fiction, I also realized that I am frequently sharing the same link to multiple people, and wanted to consolidate those shared links somewhere.
+
+Note: Links to Amazon do not contain affiliate marketing links. All opinions are my own.
