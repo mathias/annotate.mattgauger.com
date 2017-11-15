@@ -32,6 +32,16 @@
 
 [[file:about.html][About]]
 
+* [[http://static.usenix.org/event/lisa07/tech/full_papers/hamilton/hamilton_html/][On Designing and Deploying Internet-Scale Services]] <2017-11-15 Wed 10:45>
+
+by James Hamilton - Windows Live Services Platform
+
+Currently reading this and thought I'd share.
+
+#+BEGIN_QUOTE
+While auto-administration is important, the most important factor is actually the service itself. Is the service efficient to automate? Is it what we refer to more generally as operations-friendly? Services that are operations-friendly require little human intervention, and both detect and recover from all but the most obscure failures without administrative intervention. This paper summarizes the best practices accumulated over many years in scaling some of the largest services at MSN and Windows Live.
+#+END_QUOTE
+
 * [[http://babbagefiles.blogspot.com/2017/03/take-elfeed-everywhere-mobile-rss.html][Take Elfeed everywhere: Mobile rss reading Emacs-style (for free/cheap)]] <2017-11-14 Tue 20:56>
 
 For those that still use subscribe to RSS and want something that goes from their local emacs to their smartphone.
