@@ -32,6 +32,9 @@
 
 [[file:about.html][About]]
 
+* [[http://babbagefiles.blogspot.com/2017/03/take-elfeed-everywhere-mobile-rss.html][Take Elfeed everywhere: Mobile rss reading Emacs-style (for free/cheap)]] <2017-11-14 Tue 20:56>
+
+For those that still use subscribe to RSS and want something that goes from their local emacs to their smartphone.
 
 * [[http://nautil.us/issue/53/monsters/the-last-invention-of-man][The Last Invention of Man - How AI might take over the world.]] <2017-11-14 Tue 20:45>
 Some scifi for your day. By Max Tegmark, author if [[https://www.goodreads.com/book/show/34272565-life-3-0][Life 3.0]].
