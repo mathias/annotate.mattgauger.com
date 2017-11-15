@@ -32,6 +32,10 @@
 
 [[file:about.html][About]]
 
+
+* [[http://nautil.us/issue/53/monsters/the-last-invention-of-man][The Last Invention of Man - How AI might take over the world.]] <2017-11-14 Tue 20:45>
+Some scifi for your day. By Max Tegmark, author if [[https://www.goodreads.com/book/show/34272565-life-3-0][Life 3.0]].
+
 * [[https://olimex.wordpress.com/2017/10/12/teres-i-do-it-yourself-open-source-laptop-update/][TERES-I Do It Yourself Open Source Laptop update]] <2017-11-13 Mon 18:52>
 A DIY laptop built with an ARM chip. Putting together a laptop from a kit sounds really appealing to me right now.
 
