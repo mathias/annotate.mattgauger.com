@@ -32,6 +32,10 @@
 
 [[file:about.html][About]]
 
+* [[https://noflojs.org/][NoFlo - Flow-Based Programming for JavaScript]] <2017-11-16 Thu 16:52>
+
+In the realm of different programming paradigms, here's a way to do data flow programming on Node. It even has a visual output for the graph of components. (But NoFlo is not, itself, a visual programming tool / visual block language.) This reminds me a lot of the data flow programming I did on [[http://hoplon.io/][Hoplon]], which is a data flow or "spreadsheet programming" library on ClojureScript.
+
 * [[https://cloudplatform.googleblog.com/2017/01/availability-part-deux--CRE-life-lessons.html][SLOs, SLIs, SLAs, oh my - CRE life lessons]] <2017-11-16 Thu 16:38>
 
 Continuing on the theme of designing and operating internet-scale systems. The entire [[https://landing.google.com/sre/book.html][Google SRE]] book, which I read back in September, is worth a read.
