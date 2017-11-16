@@ -34,7 +34,7 @@
 
 * [[https://cloudplatform.googleblog.com/2017/01/availability-part-deux--CRE-life-lessons.html][SLOs, SLIs, SLAs, oh my - CRE life lessons]] <2017-11-16 Thu 16:38>
 
-Continuing on the theme of designing and operation internet-scale systems. The entire [[https://landing.google.com/sre/book.html][Google SRE]] book, which I read back in September, is worth a read.
+Continuing on the theme of designing and operating internet-scale systems. The entire [[https://landing.google.com/sre/book.html][Google SRE]] book, which I read back in September, is worth a read.
 
 * [[http://static.usenix.org/event/lisa07/tech/full_papers/hamilton/hamilton_html/][On Designing and Deploying Internet-Scale Services]] <2017-11-15 Wed 10:45>
 
