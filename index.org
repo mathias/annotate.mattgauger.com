@@ -32,6 +32,18 @@
 
 [[file:about.html][About]]
 
+* [[https://www.jwz.org/doc/worse-is-better.html][The Rise of "Worse is Better"]] <2017-11-17 Fri 15:49>
+
+by Richard Gabriel.
+
+I had to share this at work again today, and I thought it was worth sharing here.
+
+* [[https://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/][On being a senior engineer]] <2017-11-16 Thu 10:02>
+
+#+BEGIN_QUOTE
+Being able to write a Bloom Filter in Erlang, or write multi-threaded C in your sleep is insufficient. None of that matters if no one wants to work with you.
+#+END_QUOTE
+
 * [[https://noflojs.org/][NoFlo - Flow-Based Programming for JavaScript]] <2017-11-16 Thu 16:52>
 
 In the realm of different programming paradigms, here's a way to do data flow programming on Node. It even has a visual output for the graph of components. (But NoFlo is not, itself, a visual programming tool / visual block language.) This reminds me a lot of the data flow programming I did on [[http://hoplon.io/][Hoplon]], which is a data flow or "spreadsheet programming" library on ClojureScript.
