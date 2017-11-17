@@ -32,6 +32,10 @@
 
 [[file:about.html][About]]
 
+* [[http://orgmode.org/manual/Template-expansion.html#Template-expansion][Org mode template expansions]] [2017-11-17 Fri 17:10]
+
+What I'm currently working on to get my workflow for [[http://annotate.mattgauger.com][annotate.mattgauger.com]] down to less keystrokes.
+
 * [[https://www.jwz.org/doc/worse-is-better.html][The Rise of "Worse is Better"]] <2017-11-17 Fri 15:49>
 
 by Richard Gabriel.
