@@ -32,6 +32,10 @@
 
 [[file:about.html][About]]
 
+* [[https://disaster.radio/][disaster.radio]] [2017-11-18 Sat 08:20]
+
+Another project attempting to build mesh networks with cheap/simple components and open source. This one uses ESP8226 boards and LoRa transceivers -- so it might not have a lot of bandwidth but it should have some range and usefulness in the intended situation of disaster recovery. This project comes from [[https://sudoroom.org/wiki/Mesh][SudoRoom makerspace]] and they have their own community mesh network built on OpenWRT, too: [[https://github.com/sudomesh/makenode][https://github.com/sudomesh/makenode]]
+
 * [[https://en.wikipedia.org/wiki/Second-system_effect][Second-system effect]] [2017-11-18 Sat 00:21]
 
 As made famous by Fred Brooks in [[https://en.wikipedia.org/wiki/The_Mythical_Man-Month][The Mythical Man-Month]]. See also [[http://catb.org/jargon/html/S/second-system-effect.html][second system effect]] entry on the Jargon file. Another link that I've shared enough over the past few weeks to warrant an entry here.
