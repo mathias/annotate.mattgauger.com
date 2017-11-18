@@ -32,6 +32,10 @@
 
 [[file:about.html][About]]
 
+* [[https://en.wikipedia.org/wiki/Second-system_effect][Second-system effect]] [2017-11-18 Sat 00:21]
+
+As made famous by Fred Brooks in [[https://en.wikipedia.org/wiki/The_Mythical_Man-Month][The Mythical Man-Month]]. See also [[http://catb.org/jargon/html/S/second-system-effect.html][second system effect]] entry on the Jargon file. Another link that I've shared enough over the past few weeks to warrant an entry here.
+
 * [[http://orgmode.org/manual/Template-expansion.html#Template-expansion][Org mode template expansions]] [2017-11-17 Fri 17:10]
 
 What I'm currently working on to get my workflow for [[http://annotate.mattgauger.com][annotate.mattgauger.com]] down to less keystrokes.
