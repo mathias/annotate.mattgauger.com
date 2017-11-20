@@ -32,6 +32,14 @@
 
 [[file:about.html][About]]
 
+* [[http://www.transcendencecorporation.com/files/pdf/RULES.pdf?__s=6mbvgwtoyk5stqzz3xvi][Business Rules as Objects (Title: Self Evaluating Rules)]] paper [2017-11-20 Mon 13:43]
+
+If you've coded a business rule soup in methods for your OOP classes, and felt like it quickly became unmaintainable or something that you can no longer reason about, this might be an interesting read.
+
+* [[http://web.mit.edu/2.75/resources/random/How%2520Complex%2520Systems%2520Fail.pdf][How Complex Systems Fail]] paper [2017-11-20 Mon 13:42]
+
+Some light reading for your Monday.
+
 * [[https://disaster.radio/][disaster.radio]] [2017-11-18 Sat 08:20]
 
 Another project attempting to build mesh networks with cheap/simple components and open source. This one uses ESP8226 boards and LoRa transceivers -- so it might not have a lot of bandwidth but it should have some range and usefulness in the intended situation of disaster recovery. This project comes from [[https://sudoroom.org/wiki/Mesh][SudoRoom makerspace]] and they have their own community mesh network built on OpenWRT, too: [[https://github.com/sudomesh/makenode][https://github.com/sudomesh/makenode]]
