@@ -32,6 +32,24 @@
 
 [[file:about.html][About]]
 
+* [[https://shift.newco.co/the-urgency-of-cognitive-improvement-72f5043ca1fc][The Urgency of Cognitive Improvement]] <shift.newco.co> [2017-11-26 Sun 10:34]
+
+What cognitive bias keeps us from realizing that unlocking intelligence amplification unlocks everything else?
+
+#+BEGIN_QUOTE
+At the beginning of each of these dinners, I would initiate a thought experiment:
+
+What do we need to focus on today in order to create a world that we would love to live in by 2050?
+
+With minor variations, I heard the same answers nearly every time — climate science, education, healthcare, AI, governance, and security. Not once, though, did any of the 150+ participants mention improving the brain itself. I was stunned by this. Why, I wondered.
+#+END_QUOTE
+
+And on understanding the difficulty of it:
+
+#+BEGIN_QUOTE
+There are difficulties ahead. Fixing the brain’s weak points in preparation for our increasingly complex future is a social challenge as much as a technical one.
+#+END_QUOTE
+
 * [[https://singularityhub.com/2017/11/19/how-technology-is-leading-us-into-the-imagination-age/][How Technology Is Leading Us Into the Imagination Age]] <singularityhub.com> [2017-11-26 Sun 10:23]
 
 I particularly like the phrase "The Imagination Economy."
