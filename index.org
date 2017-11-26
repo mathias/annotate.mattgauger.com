@@ -32,6 +32,10 @@
 
 [[file:about.html][About]]
 
+* [[https://singularityhub.com/2017/11/19/how-technology-is-leading-us-into-the-imagination-age/][How Technology Is Leading Us Into the Imagination Age]] <singularityhub.com> [2017-11-26 Sun 10:23]
+
+I particularly like the phrase "The Imagination Economy."
+
 * [[https://www.wired.com/story/inside-the-race-to-build-a-brain-machine-interface/][Inside the race to hack the human brain]] <wired.com> [2017-11-23 Thu 15:58]
 
 Neuroprosthetics are on their way, possibly sooner than you think. And they won't necessarily require surgery:
