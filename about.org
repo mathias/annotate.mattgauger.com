@@ -40,6 +40,6 @@ There's a line in [[http://www.antipope.org/charlie/blog-static/fiction/accelera
 ... speed reads a new pop-philosophy tome while he brushes his teeth, then blogs his web throughput to a public annotation server
 #+END_QUOTE
 
-This is my own public annotation server. But beyond science fiction, I also realized that I am frequently sharing the same link to multiple people, and wanted to consolidate those shared links somewhere.
+This is my own public annotation server. But beyond science fiction, I also realized that I am frequently sharing the same link to multiple people, and wanted to consolidate those shared links somewhere. I also wanted to track what books I was reading and potentially write mini-reviews of them. This serves as a public interface to my [[http://alumni.media.mit.edu/~rhodes/Papers/remembrance.html][Remembrance Agent]].
 
 Note: Links to Amazon do not contain affiliate marketing links. All opinions are my own.
