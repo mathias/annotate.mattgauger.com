@@ -15,7 +15,7 @@
 #+HTML_LINK_UP:
 #+HTML_MATHJAX:
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="./stylesheet.css" />
-#+HTML_HEAD_EXTRA:
+#+HTML_HEAD_EXTRA: <!-- Global site tag (gtag.js) - Google Analytics --><script async src="https://www.googletagmanager.com/gtag/js?id=UA-38944731-3"></script><script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}gtag('js', new Date());gtag('config', 'UA-38944731-3');</script>
 #+SUBTITLE:
 #+INFOJS_OPT:
 #+CREATOR: <a href="http://www.gnu.org/software/emacs/">Emacs</a> 26.0.90 (<a href="http://orgmode.org">Org</a> mode 9.0)
