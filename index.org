@@ -32,6 +32,14 @@
 
 [[file:about.html][About]]
 
+* [[https://www.theverge.com/2017/11/15/16654352/ai-astronomy-space-exploration-data][AI could be the perfect tool for exploring the Universe]] <theverge.com> [2017-12-01 Fri 17:41]
+
+#+BEGIN_QUOTE
+It’s an incredible speed-up, and a perfect example of how AI can help astronomy.
+#+END_QUOTE
+
+Cool stuff.
+
 * [[https://shift.newco.co/the-urgency-of-cognitive-improvement-72f5043ca1fc][The Urgency of Cognitive Improvement]] <shift.newco.co> [2017-11-26 Sun 10:34]
 
 What cognitive bias keeps us from realizing that unlocking intelligence amplification unlocks everything else?
