@@ -32,6 +32,19 @@
 
 [[file:about.html][About]]
 
+* [[https://www.matchilling.com/introduction-to-logic-programming-with-prolog/][Introduction to logic programming with Prolog]] [2017-12-19 Tue 20:20]
+
+I've been a fan of Prolog for a long time. There's some really good books, but this blog post will do as an introduciton.
+
+* [[https://arxiv.org/pdf/1712.01815.pdf]["Mastering Chess and Shogi by Self-Play with a
+General Reinforcement Learning Algorithm"]] [2017-12-19 Tue 20:00]
+
+The AlphaGo Zero -> AlphaZero generalization paper. A really interesting read.
+
+* [[https://docs.google.com/presentation/d/1kSuQyW5DTnkVaZEjGYCkfOxvzCqGEFzWBy4e9Uedd9k/preview?imm_mid=0f9b7e&cmp=em-data-na-na-newsltr_20171213&slide=id.g183f28bdc3_0_90][Jason's Machine Learning 101]] [slide deck] [2017-12-19 Tue 18:12]
+
+Worth a quick skim, even if you have some background in ML.
+
 * [[https://www.theverge.com/2017/11/15/16654352/ai-astronomy-space-exploration-data][AI could be the perfect tool for exploring the Universe]] <theverge.com> [2017-12-01 Fri 17:41]
 
 #+BEGIN_QUOTE
