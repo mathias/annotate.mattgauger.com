@@ -36,8 +36,7 @@
 
 I've been a fan of Prolog for a long time. There's some really good books, but this blog post will do as an introduciton.
 
-* [[https://arxiv.org/pdf/1712.01815.pdf]["Mastering Chess and Shogi by Self-Play with a
-General Reinforcement Learning Algorithm"]] [2017-12-19 Tue 20:00]
+* [[https://arxiv.org/pdf/1712.01815.pdf]["Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm"]] [2017-12-19 Tue 20:00]
 
 The AlphaGo Zero -> AlphaZero generalization paper. A really interesting read.
 
