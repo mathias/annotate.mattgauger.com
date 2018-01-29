@@ -32,6 +32,8 @@
 
 [[file:about.html][About]]
 
+* [[https://blog.acolyer.org/2018/01/26/a-practitioners-guide-to-reading-programming-languages-papers/][A practitioner’s guide to reading programming languages papers]] [2018-01-29 Mon 09:35]
+
 * [[https://www.matchilling.com/introduction-to-logic-programming-with-prolog/][Introduction to logic programming with Prolog]] [2017-12-19 Tue 20:20]
 
 I've been a fan of Prolog for a long time. There's some really good books, but this blog post will do as an introduciton.
