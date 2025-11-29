@@ -32,7 +32,7 @@
 
 [[file:about.html][About]]
 
-*  [2025-11-29 Sat 09:31] https://rhizospherelabs.com/@mathias
+* [[https://rhizospherelabs.com/@mathias][https://rhizospherelabs.com/@mathias]] [2025-11-29 Sat 09:31]
 
 My fediverse server and account
 
